@@ -156,3 +156,5 @@ fabric.properties
 
 #output folder
 /dist
+dist/
+typings/
